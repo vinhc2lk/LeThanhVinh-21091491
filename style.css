@@ -1,0 +1,197 @@
+.bai1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px
+
+}
+
+.bai1-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+}
+.bai1h6-text{
+    margin: 2px 0 12px 0 ;
+}
+.bai1-pic{
+    margin-top: 20px;
+}
+
+.VT{
+    color: blue;
+}
+.sanphamnlock{
+    display: flex;
+
+}   
+.sp{
+    padding: 5px;
+    color: black;
+    background-color: #EED3D9;
+    margin: 5px;
+}
+
+.bai2{
+    ;
+}
+
+.tagwrap{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    justify-content: center;
+    grid-template-columns:  auto auto auto auto auto
+}
+.tag{
+    color: white;
+    background: greenyellow;
+   font-size: 20px;
+   text-align: center;
+   padding: 5px;
+}
+
+.bai3-container{
+    margin-left:  400px;
+    margin-right: 400px;
+}
+.bai3-list{
+    list-style-type: none;
+}
+.bai3-button{
+padding: 10px 20px;
+background-color: rgb(85, 102, 179);
+border: none;
+}
+.bai4{
+    margin: auto;
+    width: 50%;
+}
+.bai4-container{
+    width: 700px;
+    background-color: rgb(176, 175, 175);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+}
+.bai4-icon{
+    padding: 20px;
+    font-size: 40px;
+  <img src="https://cdn.glitch.global/81dc1a6c-ef83-439c-bb79-fdcdde5235da/542689.png?v=1709396623004">
+}
+.bai4-headertext{
+padding: 10px;
+}
+.bai4-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+}
+.email-field{
+    margin: 5px;
+    padding: 10px;
+    border: none;
+}
+
+.bai4-button{
+padding: 20px;
+color: white;
+background-color: navy;
+}
+
+.bai5-container{
+    display: flex;
+    justify-content: center;
+}
+.bai5-background{
+    width: 1000px;
+    height: 300px;
+    background-image: url("https://cdn.glitch.global/0bd01b8a-be26-4844-b574-83a342786fd4/92d65c9e-cf8e-461d-9b67-b3417dcd1c28.image.png?v=1709456586558");
+    color: white;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+    background-size: cover;
+}
+.bai5-wraptext{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center
+}
+.bai5-text1{
+font-size: 20px;
+padding: 20px;
+}
+
+
+.bai5-button{
+    font-size: 20px;
+    color: white;
+    padding: 10px   ;
+    border: none;
+    background: rgb(131,58,180);
+background: linear-gradient(360deg, rgba(131,58,180,1) 0%, rgba(255,0,0,1) 44%, rgba(252,176,69,1) 100%);
+}
+.bai6-container{
+    display: flex;
+    justify-content: center;
+}
+.bai6-background{
+    width: 1000px;
+    height: 300px;
+    background-image: url("https://cdn.glitch.global/5d872087-9033-49a6-9697-647e02feba6b/bai6.jpg?v=1709397872221");
+    color: white;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+    background-size: cover;
+}
+
+.bai6-wraptext{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 70px;
+}
+.block{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.block > *{
+padding: 10px;
+}
+
+.text-bai6{
+    color: yellow;
+    font-size: 10px;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.pink{
+    color: pink;
+}
+.blue{
+    color: blue;
+}
+.bai6-number{
+    font-size: 30px;
+}
+.block> i{
+    font-size: 30px;
+}
